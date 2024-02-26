@@ -10,4 +10,4 @@ git clone https://github.com/Lexus14/Saya
 
 cd Saya
 
-python Jol.py
+python darkfb.py
